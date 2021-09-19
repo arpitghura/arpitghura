@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitghura&label=Profile%20views&color=0e75b6&style=flat" alt="arpitghura" /> </p>
 
-- 👨‍💻 All of my projects are available at [arpitghura.github.io/](arpitghura.github.io)
+- 👨‍💻 All of my projects are available at [arpitghura.github.io/](http://arpitghura.github.io)
 
 - 📫 How to reach me **ghurarpit110@gmail.com**
 
