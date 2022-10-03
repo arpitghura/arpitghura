@@ -7,7 +7,7 @@ Front-End Web Developer
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Portfolio](http://arpitghura.github.io)
 * ✉️  You can contact me at [ghurarpit110@gmail.com](mailto:ghurarpit110@gmail.com)
-* 🚀  I'm currently working on [Typing Master App](http://arpitghura.github.io/typing-test)
+* 🚀  I'm currently working on [Typing Test App](https://github.com/arpitghura/Typing-test)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Web Projects
 * ⚡  Upcoming SDE Intern @Microsoft
