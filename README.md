@@ -40,7 +40,7 @@ src="https://img.shields.io/github/followers/arpitghura?logo=github&style=for-th
 
 ### Badges
 
-![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=arpitghura&theme=onedark&column=7&margin-w=15&margin-h=15) 
+![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=arpitghura&theme=onedark&column=4&margin-w=15&margin-h=15) 
 
 ### <b>My GitHub Stats</b>
 
