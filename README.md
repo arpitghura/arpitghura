@@ -1,8 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arpit Ghura
-===================================================================================================================================
+<div align="center">
 
-Front-End Web Developer
+Hi ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Welcome to My Profile
+=======================================================================================================
+
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=00AEF0&center=true&vCenter=true&width=450&lines=Nice+to+Meet+You;Open+Source+Enthusiast;Passionate+Learner)](https://git.io/typing-svg)
+
+
+I am Arpit Ghura :wave:
 -----------------------
+</div> 
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Portfolio](http://arpitghura.github.io)
@@ -10,7 +17,7 @@ Front-End Web Developer
 * 🚀  I'm currently working on [Typing Test App](https://github.com/arpitghura/Typing-test)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Web Projects
-* ⚡  Upcoming SDE Intern @Microsoft
+* 💼  Upcoming SDE Intern @Microsoft
 
 <a href="https://www.twitter.com/arpitghura" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/arpitghura?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -38,15 +45,18 @@ src="https://img.shields.io/github/followers/arpitghura?logo=github&style=for-th
 
 ### Socials
 
-<p align="left">
-    <a href="https://www.dev.to/arpitghura" target="_blank" rel="noreferrer"><img src="	https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a> 
+<p align="center">
+<!--     <a href="https://www.dev.to/arpitghura" target="_blank" rel="noreferrer"><img src="	https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>  -->
 <!--     <a href="https://discord.com/users/Arpit#5866" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>  -->
 <!--     <a href="https://www.github.com/arpitghura" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>  -->
-    <a href="https://arpitghura.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
-    <a href="http://www.instagram.com/ghura.arpit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/arpitghura" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!--     <a href="https://www.stackoverflow.com/users/17652503/arpit-ghura" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>  -->
-    <a href="https://www.twitter.com/arpitghura" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a></p>
+
+[![Dev.to Badge](https://img.shields.io/badge/-arpitghura-grey?style=for-the-badge&logo=devto&logoColor=white&link=https://www.dev.to/arpitghura/)](https://www.dev.to/arpitghura/)
+[![Linkedin Badge](https://img.shields.io/badge/-arpitghura-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpitghura/)](https://www.linkedin.com/in/arpitghura)
+[![Instagram Badge](https://img.shields.io/badge/-ghuraarpit-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ghura.arpit/)](https://www.instagram.com/ghura.arpit/)
+[![Twitter Badge](https://img.shields.io/badge/-Arpitghura-lightblue?style=for-the-badgelogo=Twitter&logoColor=white&link=https://twitter.com/arpitghura)](https://twitter.com/arpitghura)
+[![Hashnode Badge](https://img.shields.io/badge/-arpitghura-darkblue?style=for-the-badge&logo=hashnode&logoColor=white&link=https://arpitghura.hashnode.dev)](https://arpitghura.hashnode.dev)
+[![Gmail Badge](https://img.shields.io/badge/-ghurarpit110@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ghurarpit110@gmail.com)](mailto:ghurarpit110@gmail.com)
 
 <!-- ### Badges
 
@@ -54,11 +64,12 @@ src="https://img.shields.io/github/followers/arpitghura?logo=github&style=for-th
 
 ### <b>My GitHub Stats</b>
 
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=arpitghura&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=arpitghura&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitghura&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitghura&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages) -->
 
 <!-- ![Arpit's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=arpitghura) -->
 
