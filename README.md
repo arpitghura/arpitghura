@@ -40,17 +40,17 @@ src="https://img.shields.io/github/followers/arpitghura?logo=github&style=for-th
 
 <p align="left">
     <a href="https://www.dev.to/arpitghura" target="_blank" rel="noreferrer"><img src="	https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a> 
-    <a href="https://discord.com/users/Arpit#5866" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a> 
-    <a href="https://www.github.com/arpitghura" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> 
+<!--     <a href="https://discord.com/users/Arpit#5866" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>  -->
+<!--     <a href="https://www.github.com/arpitghura" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>  -->
     <a href="https://arpitghura.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
     <a href="http://www.instagram.com/ghura.arpit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/arpitghura" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.stackoverflow.com/users/17652503/arpit-ghura" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a> 
+<!--     <a href="https://www.stackoverflow.com/users/17652503/arpit-ghura" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>  -->
     <a href="https://www.twitter.com/arpitghura" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a></p>
 
-### Badges
+<!-- ### Badges
 
-![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=arpitghura&theme=onedark&column=4&margin-w=15&margin-h=15) 
+![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=arpitghura&theme=onedark&column=4&margin-w=15&margin-h=15)  -->
 
 ### <b>My GitHub Stats</b>
 
@@ -60,9 +60,9 @@ src="https://img.shields.io/github/followers/arpitghura?logo=github&style=for-th
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitghura&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)
 
-![Arpit's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=arpitghura)
+<!-- ![Arpit's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=arpitghura) -->
 
-![Wakatime Coding TIme Stats](https://github-readme-stats.vercel.app/api/wakatime?username=arpitghura)
+<!-- ![Wakatime Coding TIme Stats](https://github-readme-stats.vercel.app/api/wakatime?username=arpitghura) -->
     
 <!-- <details>
 <summary><b>Detailed Summary</b></summary>
