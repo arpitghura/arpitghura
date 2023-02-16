@@ -11,18 +11,17 @@ I am Arpit Ghura :wave:
 -----------------------
 </div> 
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [Portfolio](http://arpitghura.github.io)
-* ✉️  You can contact me at [ghurarpit110@gmail.com](mailto:ghurarpit110@gmail.com)
-* 🚀  I'm currently working on [Typing Test App](https://github.com/arpitghura/Typing-test)
-* 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on Web Projects
-* 💼  Upcoming SDE Intern @Microsoft
+* 🌍 I'm based in India
+* ✉️ You can contact me at [ghurarpit110@gmail.com](mailto:ghurarpit110@gmail.com)
+* 👨‍💻 I'm currently working on [Typing Test App](https://github.com/arpitghura/Typing-test)
+* 🚀 Mentored new Folks to open Source through [Kharagpur Winter of Code 2022](https://github.com/kossiitkgp/public-files/blob/master/KWoC/2022-Certificates/Mentor/arpitghura.pdf), IWOC, HactoberFest,and Diversion 2k23.
+* 🤝 I'm open to collaborating on Web Projects
+* 💼 Upcoming SDE Intern @Microsoft
+* 🖥️ See my portfolio at [Portfolio](http://arpitghura.github.io)
 
 <a href="https://www.twitter.com/arpitghura" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/arpitghura?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/arpitghura" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/arpitghura?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/twitter/follow/arpitghura?style=social"/></a> <a href="https://www.github.com/arpitghura" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/arpitghura?logo=github&style=social&color=0891b2" /></a>
 
 ### Skills
 
@@ -37,7 +36,6 @@ src="https://img.shields.io/github/followers/arpitghura?logo=github&style=for-th
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
     
 </p>
@@ -51,10 +49,10 @@ src="https://img.shields.io/github/followers/arpitghura?logo=github&style=for-th
 <!--     <a href="https://www.github.com/arpitghura" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>  -->
 <!--     <a href="https://www.stackoverflow.com/users/17652503/arpit-ghura" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>  -->
 
-[![Dev.to Badge](https://img.shields.io/badge/-arpitghura-grey?style=for-the-badge&logo=devto&logoColor=white&link=https://www.dev.to/arpitghura/)](https://www.dev.to/arpitghura/)
+[![Dev.to Badge](https://img.shields.io/badge/-arpitghura-grey?style=for-the-badge&logo=dev.to&logoColor=white&link=https://www.dev.to/arpitghura/)](https://www.dev.to/arpitghura/)
 [![Linkedin Badge](https://img.shields.io/badge/-arpitghura-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpitghura/)](https://www.linkedin.com/in/arpitghura)
 [![Instagram Badge](https://img.shields.io/badge/-ghuraarpit-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ghura.arpit/)](https://www.instagram.com/ghura.arpit/)
-[![Twitter Badge](https://img.shields.io/badge/-Arpitghura-lightblue?style=for-the-badgelogo=Twitter&logoColor=white&link=https://twitter.com/arpitghura)](https://twitter.com/arpitghura)
+[![Twitter Badge](https://img.shields.io/badge/-Arpitghura-skyblue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/arpitghura)](https://twitter.com/arpitghura)
 [![Hashnode Badge](https://img.shields.io/badge/-arpitghura-darkblue?style=for-the-badge&logo=hashnode&logoColor=white&link=https://arpitghura.hashnode.dev)](https://arpitghura.hashnode.dev)
 [![Gmail Badge](https://img.shields.io/badge/-ghurarpit110@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ghurarpit110@gmail.com)](mailto:ghurarpit110@gmail.com)
 
