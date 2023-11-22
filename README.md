@@ -16,7 +16,7 @@ I am Arpit Ghura :wave:
 * 👨‍💻 I'm currently working on [Typing Test App](https://github.com/arpitghura/Typing-test)
 * 🚀 Mentored new Folks to open Source through [Kharagpur Winter of Code 2022](https://github.com/kossiitkgp/public-files/blob/master/KWoC/2022-Certificates/Mentor/arpitghura.pdf), IWOC, HactoberFest,and Diversion 2k23.
 * 🤝 I'm open to collaborating on Web Projects
-* 💼 Upcoming SDE Intern @Microsoft
+* 💼 Former SDE Intern @Microsoft
 * 🖥️ See my portfolio at [Portfolio](http://arpitghura.github.io)
 
 <a href="https://www.twitter.com/arpitghura" target="_blank" rel="noreferrer"><img
