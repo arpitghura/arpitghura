@@ -1,86 +1,31 @@
-<div align="center">
+# Hi 👋, I'm Arpit Ghura
 
-Hi ![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Welcome to My Profile
-=======================================================================================================
-
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=00AEF0&center=true&vCenter=true&width=450&lines=Nice+to+Meet+You;Open+Source+Enthusiast;Passionate+Learner)](https://git.io/typing-svg)
-
-
-I am Arpit Ghura :wave:
------------------------
-</div> 
-
+* 👨‍💻 A passionate frontend developer
 * 🌍 I'm based in India
 * ✉️ You can contact me at [ghurarpit110@gmail.com](mailto:ghurarpit110@gmail.com)
-* 👨‍💻 I'm currently working on [Typing Test App](https://github.com/arpitghura/Typing-test)
-* 🚀 Mentored new Folks to open Source through [Kharagpur Winter of Code 2022](https://github.com/kossiitkgp/public-files/blob/master/KWoC/2022-Certificates/Mentor/arpitghura.pdf), IWOC, HactoberFest,and Diversion 2k23.
+* 👨‍💻 I'm currently working on [Quizzy](https://github.com/arpitghura/quizzy)
+* 🚀 Mentored new Folks to Open Source through [Kharagpur Winter of Code 2022](https://github.com/kossiitkgp/public-files/blob/master/KWoC/2022-Certificates/Mentor/arpitghura.pdf), IWOC, HactoberFest, Diversion 2k23, and Code Peak.
 * 🤝 I'm open to collaborating on Web Projects
 * 💼 Former SDE Intern @Microsoft
-* 🖥️ See my portfolio at [Portfolio](http://arpitghura.github.io)
+* 🖥️ See my portfolio at [Portfolio](http://arpitg.vercel.app)
 
-<a href="https://www.twitter.com/arpitghura" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/arpitghura?style=social"/></a> <a href="https://www.github.com/arpitghura" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/arpitghura?logo=github&style=social&color=0891b2" /></a>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ghura.arpit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arpitghura) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@arpitghura) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/arpitghura) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/arpitghura) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@arpitghura) 
 
-### Skills
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arpitghura&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arpitghura&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitghura&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arpitghura&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="left">
-    
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-    
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+---
+[![https://komarev.com/ghpvc/?username=arpitghura&label=Profile%20views&color=0e75b6&style=for-the-badge](https://komarev.com/ghpvc/?username=arpitghura&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://komarev.com/ghpvc/?username=arpitghura&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
-### Socials
-
-<p align="center">
-<!--     <a href="https://www.dev.to/arpitghura" target="_blank" rel="noreferrer"><img src="	https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>  -->
-<!--     <a href="https://discord.com/users/Arpit#5866" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>  -->
-<!--     <a href="https://www.github.com/arpitghura" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>  -->
-<!--     <a href="https://www.stackoverflow.com/users/17652503/arpit-ghura" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>  -->
-
-[![Dev.to Badge](https://img.shields.io/badge/-arpitghura-grey?style=for-the-badge&logo=dev.to&logoColor=white&link=https://www.dev.to/arpitghura/)](https://www.dev.to/arpitghura/)
-[![Linkedin Badge](https://img.shields.io/badge/-arpitghura-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpitghura/)](https://www.linkedin.com/in/arpitghura)
-[![Instagram Badge](https://img.shields.io/badge/-ghuraarpit-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ghura.arpit/)](https://www.instagram.com/ghura.arpit/)
-[![Twitter Badge](https://img.shields.io/badge/-Arpitghura-skyblue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/arpitghura)](https://twitter.com/arpitghura)
-[![Hashnode Badge](https://img.shields.io/badge/-arpitghura-darkblue?style=for-the-badge&logo=hashnode&logoColor=white&link=https://arpitghura.hashnode.dev)](https://arpitghura.hashnode.dev)
-[![Gmail Badge](https://img.shields.io/badge/-ghurarpit110@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ghurarpit110@gmail.com)](mailto:ghurarpit110@gmail.com)
-
-<!-- ### Badges
-
-![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=arpitghura&theme=onedark&column=4&margin-w=15&margin-h=15)  -->
-
-### <b>My GitHub Stats</b>
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=arpitghura&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=arpitghura&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
-
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitghura&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages) -->
-
-<!-- ![Arpit's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=arpitghura) -->
-
-<!-- ![Wakatime Coding TIme Stats](https://github-readme-stats.vercel.app/api/wakatime?username=arpitghura) -->
-    
-<!-- <details>
-<summary><b>Detailed Summary</b></summary>
-<br> 
-
-![Metrics](https://metrics.lecoq.io/arpitghura?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta&config.twemoji=true)
-
-</details> -->
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/arpitghura "><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
