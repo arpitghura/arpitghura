@@ -4,7 +4,7 @@
 * 💼 Holds 2+ Years of Professional Experience
 * 🌍 I'm based out of India
 * ✉️ You can contact me at [ghurarpit110@gmail.com](mailto:ghurarpit110@gmail.com)
-* 👨‍💻 I'm currently working on [Orbyn](https://github.com/arpitghura/orbyn) [Download Android App](https://github.com/arpitghura/orbyn/releases/download/v1/orbyn.apk)
+* 👨‍💻 I'm currently working on [Orbyn](https://github.com/arpitghura/orbyn) | [Download Android App](https://github.com/arpitghura/orbyn/releases/download/v1/orbyn.apk)
 * 🚀 Mentored Folks to Open Source through [Kharagpur Winter of Code 2022](https://github.com/kossiitkgp/public-files/blob/master/KWoC/2022-Certificates/Mentor/arpitghura.pdf), IWOC, HactoberFest, Diversion 2k23, and Code Peak.
 * 🤝 I'm open to collaborating on Projects
 * 💼 Former SDE Intern @Microsoft
